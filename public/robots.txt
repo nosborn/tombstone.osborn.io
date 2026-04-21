@@ -1,0 +1,5 @@
+Sitemap: http://tombstone.osborn.io/sitemap.xml
+
+User-agent: *
+Content-Signal: ai-train=yes, search=yes, ai-input=yes
+Allow: /
